@@ -48,6 +48,7 @@ int main()
 		cout<<"invalid number"<<endl;
 	}
 	i--;
+	cout<<"commit"<<endl;
 }
 	return 0;
 	}
