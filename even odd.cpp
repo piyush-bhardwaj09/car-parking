@@ -7,7 +7,7 @@ int n1,n2,sum;//dhlc sos[  jdmcss[poisn hn  kndhc
  cin>>n1>>n2;
  sum=n1+n2;
  
- 
+ cout<<"new changew"<<endl;
  if(sum>50)
  {
 cout<<"great "<<endl;
